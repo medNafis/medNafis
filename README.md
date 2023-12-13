@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="width: 80px; height: 20px;"/>
   </a>
   <h1>
-  hey there
+  hello world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="600" height="150"/>
 </div>
