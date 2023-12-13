@@ -16,3 +16,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="100"/>
 </div>
+---
+
+### :man_technologist: .about( )
+Software Engineer && Automation Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Automation and LLMs Integration.
+
+- :zap: In my free time, I solve problems on leetCode and play chess.
