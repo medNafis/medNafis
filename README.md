@@ -10,11 +10,11 @@
   </a>
   <h1>
   hello world
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="100"/>
+  <img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="600" height="100"/>
 </div>
 <div align= "center">
   <img src="https://komarev.com/ghpvc/?username=medNafis&style=flat-square&color=blue" alt=""/>
