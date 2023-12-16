@@ -19,6 +19,7 @@
 <div align= "center">
   <img src="https://komarev.com/ghpvc/?username=medNafis&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### :man_technologist: .about( )
@@ -49,10 +50,10 @@ Software Engineer && Automation Enthusiast <img src="https://media.giphy.com/med
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: .stats( )
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=medNafis&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medNafis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
