@@ -54,9 +54,21 @@ Software Engineer && Automation Enthusiast <img src="https://media.giphy.com/med
 ---
 
 ### :fire: .stats( )
-|                                                                                                 |                                                                                                  |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=medNafis&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medNafis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=medNafis&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medNafis&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
