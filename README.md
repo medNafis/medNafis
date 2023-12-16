@@ -14,7 +14,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="800" height="100"/>
+  <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="800" height="100"/>
 </div>
 <div align= "center">
   <img src="https://komarev.com/ghpvc/?username=medNafis&style=flat-square&color=blue" alt=""/>
